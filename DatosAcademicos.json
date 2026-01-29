@@ -1,0 +1,14 @@
+{
+  "materia": "Cálculo I",
+  "codigo": "MAT101",
+  "docente": "Dr. Juan Pérez",
+  "carrera": "Ingeniería Civil",
+  "creditos": 4,
+  "horasSemanales": 6,
+  "modalidad": "Presencial",
+  "aula": "A1-01",
+  "semestre": 1,
+  "dia": "Lunes",
+  "horaInicio": "08:00",
+  "horaFin": "10:00"
+}
